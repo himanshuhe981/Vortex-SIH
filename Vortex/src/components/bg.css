@@ -1,0 +1,11 @@
+.vortex {
+    width: 800px;
+    height: 135px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-left: none;
+    border-right: none;
+    border-top: 3px solid rgb(247, 240, 240);
+    border-bottom: 3px solid  rgb(247, 240, 240);
+   
+  }
